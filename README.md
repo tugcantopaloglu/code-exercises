@@ -4,7 +4,6 @@ This is my repository for completed code exercise answers on different sites. Ev
 **My Profiles In Coding Exercise Sites Which I Use:**
 
 LeetCode: https://leetcode.com/tugcantopaloglu/  
-HackerRank: https://www.hackerrank.com/topaloglutugcan  
+HackerRank: https://www.hackerrank.com/topaloglutugcan (Some exercises may not be in my repository because they are too easy to solve.)  
 
 Note: Sites going to be updated when I move another exercise site.
-
