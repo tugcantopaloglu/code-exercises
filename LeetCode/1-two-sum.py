@@ -3,8 +3,8 @@ class Solution:
         map = {}
         for i in range(len(num)):
             if num[i] not in map:
-                map[target - num[i]] = i + 1
+                map[target - num[i]] = i
             else:
-                return map[num[i]], i + 1
+                return map[num[i]], i
 
         return -1, -1
